@@ -1,0 +1,342 @@
+h5
+{
+	
+	display: block;
+	background-color: yellow;
+	border-color:black;
+	border-radius: 20px;
+	border-width: 5px;
+	height: 12.5%;
+	width: 12.5%;
+	color: blue;
+	font-size: 200%;
+	text-align: center;
+}
+#x00
+{
+	position: absolute;
+	top: -7.5%;
+	left: 0%;
+}
+#x10
+{
+	position: absolute;
+	top: 5%;
+	left: 0%;
+}
+#x20
+{
+	position: absolute;
+	top: 17.5%;
+	left: 0%;
+}
+#x30
+{
+	position: absolute;
+	top: 30%;
+	left: 0%;
+}
+#x40
+{
+	position: absolute;
+	top: 42.5%;
+	left: 0%;
+}
+#x50
+{
+	position: absolute;
+	top: 55%;
+	left: 0%;
+}
+#x60
+{
+	position: absolute;
+	top: 67.5%;
+	left: 0%;
+}
+#x70
+{
+	position: absolute;
+	top: 80%;
+	left: 0%;
+}
+#x01{
+	position: absolute;
+	top: -7.5%;
+	left: 12.5%;
+}
+#x11{
+	position: absolute;
+	top: 5%;
+	left: 12.5%;
+}
+#x21{
+	position: absolute;
+	top: 17.5%;
+	left: 12.5%;
+}
+#x31{
+	position: absolute;
+	top: 30%;
+	left: 12.5%;
+}
+#x41{
+	position: absolute;
+	top: 42.5%;
+	left: 12.5%;
+}
+#x51{
+	position: absolute;
+	top: 55%;
+	left: 12.5%;
+}
+#x61{
+	position: absolute;
+	top: 67.5%;
+	left: 12.5%;
+}
+#x71{
+	position: absolute;
+	top: 80%;
+	left: 12.5%;
+}
+#x02{
+	position: absolute;
+	top: -7.5%;
+	left: 25%;
+}
+#x12{
+	position: absolute;
+	top: 5%;
+	left: 25%;
+}
+#x22{
+	position: absolute;
+	top: 17.5%;
+	left: 25%;
+}
+#x32{
+	position: absolute;
+	top: 30%;
+	left: 25%;
+}
+#x42{
+	position: absolute;
+	top: 42.5%;
+	left: 25%;
+}
+#x52{
+	position: absolute;
+	top: 55%;
+	left: 25%;
+}
+#x62{
+	position: absolute;
+	top: 67.5%;
+	left: 25%;
+}
+#x72{
+	position: absolute;
+	top: 80%;
+	left: 25%;
+}
+#x03{
+	position: absolute;
+	top: -7.5%;
+	left: 37.5%;
+}
+#x13{
+	position: absolute;
+	top: 5%;
+	left: 37.5%;
+}
+#x23{
+	position: absolute;
+	top: 17.5%;
+	left: 37.5%;
+}
+#x33{
+	position: absolute;
+	top: 30%;
+	left: 37.5%;
+}
+#x43{
+	position: absolute;
+	top: 42.5%;
+	left: 37.5%;
+}
+#x53{
+	position: absolute;
+	top: 55%;
+	left: 37.5%;
+}
+#x63{
+	position: absolute;
+	top: 67.5%;
+	left: 37.5%;
+}
+#x73{
+	position: absolute;
+	top: 80%;
+	left: 37.5%;
+}
+#x04{
+	position: absolute;
+	top: -7.5%;
+	left: 50%;
+}
+#x14{
+	position: absolute;
+	top: 5%;
+	left: 50%;
+}
+#x24{
+	position: absolute;
+	top: 17.5%;
+	left: 50%;
+}
+#x34{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+}
+#x44{
+	position: absolute;
+	top: 42.5%;
+	left: 50%;
+}
+#x54{
+	position: absolute;
+	top: 55%;
+	left: 50%;
+}
+#x64{
+	position: absolute;
+	top: 67.5%;
+	left: 50%;
+}
+#x74{
+	position: absolute;
+	top: 80%;
+	left: 50%;
+}
+#x05{
+	position: absolute;
+	top: -7.5%;
+	left: 62.5%;
+}
+#x15{
+	position: absolute;
+	top: 5%;
+	left: 62.5%;
+}
+#x25{
+	position: absolute;
+	top: 17.5%;
+	left: 62.5%;
+}
+#x35{
+	position: absolute;
+	top: 30%;
+	left: 62.5%;
+}
+#x45{
+	position: absolute;
+	top: 42.5%;
+	left: 62.5%;
+}
+#x55{
+	position: absolute;
+	top: 55%;
+	left: 62.5%;
+}
+#x65{
+	position: absolute;
+	top: 67.5%;
+	left: 62.5%;
+}
+#x75{
+	position: absolute;
+	top: 80%;
+	left: 62.5%;
+}
+#x06{
+	position: absolute;
+	top: -7.5%;
+	left: 75%;
+}
+#x16{
+	position: absolute;
+	top: 5%;
+	left: 75%;
+}
+#x26{
+	position: absolute;
+	top: 17.5%;
+	left: 75%;
+}
+#x36{
+	position: absolute;
+	top: 30%;
+	left: 75%;
+}
+#x46{
+	position: absolute;
+	top: 42.5%;
+	left: 75%;
+}
+#x56{
+	position: absolute;
+	top: 55%;
+	left: 75%;
+}
+#x66{
+	position: absolute;
+	top: 67.5%;
+	left: 75%;
+}
+#x76{
+	position: absolute;
+	top: 80%;
+	left: 75%;
+}
+#x07{
+	position: absolute;
+	top: -7.5%;
+	left: 87.5%;
+}
+#x17{
+	position: absolute;
+	top: 5%;
+	left: 87.5%;
+}
+#x27{
+	position: absolute;
+	top: 17.5%;
+	left: 87.5%;
+}
+#x37{
+	position: absolute;
+	top: 30%;
+	left: 87.5%;
+}
+#x47{
+	position: absolute;
+	top: 42.5%;
+	left: 87.5%;
+}
+#x57{
+	position: absolute;
+	top: 55%;
+	left: 87.5%;
+}
+#x67{
+	position: absolute;
+	top: 67.5%;
+	left: 87.5%;
+}
+#x77{
+	position: absolute;
+	top: 80%;
+	left: 87.5%;
+}
